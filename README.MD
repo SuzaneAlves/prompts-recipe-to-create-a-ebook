@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Bing AI](https://www.bing.com/images/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,26 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema pele, o ebook é sobre cuidados com pele acneíca, sensível e oleosa, o título deve ser curto e tenha uma temática dermatológica, me liste 5 variações de títulos                                                       |
+| conteúdo | faça um texto para ebook, com foco em cuidados básicos para uma pele saudável, liste os produtos essenciais para cuidados com a pele com exemplos de melhores ingredientes para cada tipo de pele.
+
+{REGRAS}
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de melhores ingredientes para cada tipo de pele
+>Sempre deixe um titulo sugestivo por tópico
 
 
-Midjourney：
+bing AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie o desenho de uma mulher com uma rosa no cabelo, tocando delicadamente uma de suas faces com uma de suas mãos  |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Bing AI
 
 ## 📚 Materiais
 
