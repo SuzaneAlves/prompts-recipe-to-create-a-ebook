@@ -6,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<https://github.com/SuzaneAlves/prompts-recipe-to-create-a-ebook/blob/main/ebook%20-%20pele%20em%20equilibrio> 📕Clique aqui para ler</a>
+<a href="https://github.com/SuzaneAlves/prompts-recipe-to-create-a-ebook/blob/main/EBOOK%20-%20PELE%20EM%20EQUILIBRIO.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
