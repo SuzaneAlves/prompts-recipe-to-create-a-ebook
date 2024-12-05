@@ -42,10 +42,5 @@ Bing AI：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Bing AI
 
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
 
 
